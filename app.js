@@ -1,3 +1,3 @@
-// added new feature -button
-// added new feature -form
+// added new feature -button.
+// added new feature -form.
 
